@@ -41,7 +41,7 @@ CREATE TABLE IF NOT EXISTS `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id`, `nome`, `usuario`, `senha_usuario`) VALUES
-(1, 'Cesar', 'cesar@celke.com.br', '$2y$10$h8ZgUrhzl9mOY3pjhBJNs.Mna5tmXAGsn35aitbvAwreVtHWHDE6u');
+(1, 'Brenda', 'brendamdrbarros@gmail.com', '$2y$10$BpmKBDk28SvDJ0tsaWSyYuft6wTbWWDK.GHFSVtyCIjJK8p4t0giC');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
